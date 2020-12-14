@@ -1,0 +1,21 @@
+.text{
+    color: #fff;
+    text-decoration: none;
+    font-size: 35px;
+  
+    transition: 0.1s linear;
+}
+
+.text a:hover {
+    color: #c9db26;
+}
+
+.peoples{
+    display: flex;
+}
+
+.peoples img{
+    width: 60px;
+    height: 60px;
+    flex: 1 1 0;
+}
